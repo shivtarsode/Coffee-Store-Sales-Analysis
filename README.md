@@ -1,7 +1,6 @@
 Coffee Store Analysis
 
-[Screenshot (45)](https://github.com/user-attachments/assets/6e7fdc7b-4124-4116-9e48-29213271202c)
-
+![Screenshot (45)](https://github.com/user-attachments/assets/d0fb575c-3148-4eb9-87aa-143c335173df)
 
 ## **Overview**
 
