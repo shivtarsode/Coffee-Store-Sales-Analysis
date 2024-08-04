@@ -1,6 +1,7 @@
 Coffee Store Analysis
 
-![Coffee Store](https://example.com/coffee-store-image.jpg)  <!-- Replace with actual image URL -->
+[Screenshot (45)](https://github.com/user-attachments/assets/6e7fdc7b-4124-4116-9e48-29213271202c)
+
 
 ## **Overview**
 
@@ -18,45 +19,42 @@ This project aims to analyze data from a coffee store to derive insights and sup
 
 ## **Introduction**
 
-The Coffee Store Analysis project provides a comprehensive look into the operational data of a coffee store. By utilizing various data analysis techniques, this project helps in understanding sales patterns, customer behavior, and inventory needs, ultimately aiding in better business decisions.
+The Coffee Store Analysis project provides a comprehensive look into the operational data of a coffee store. By utilizing various data analysis techniques, this project helps in understanding sales patterns, customer behavior, and inventory sales, ultimately aiding in better business decisions.
 
 ## **Data Description**
 
 The dataset includes:
 
-- **Sales Data:** Transactions with details like date, time, product, quantity, and total price.
-- **Customer Data:** Information about customers including demographics and purchasing habits.
-- **Inventory Data:** Details about stock levels, restock dates, and product categories.
+- **Sales Data:** Transactions with details like Id,date, time, product, quantity, and unit price.
+- **Inventory Data:** Details about store location, product detail,and product categories.
 
 ## **Analysis Process**
 
 1. **Data Cleaning:** Handling missing values, removing duplicates, and correcting inconsistencies.
 2. **Exploratory Data Analysis (EDA):** Understanding data distributions, trends, and relationships through visualizations.
 3. **Sales Trend Analysis:** Identifying peak sales periods, popular products, and seasonal variations.
-4. **Customer Segmentation:** Grouping customers based on purchasing behavior and demographics.
-5. **Inventory Management:** Analyzing stock levels and turnover rates to optimize inventory.
+4. **Inventory Management:** Analyzing stock levels and turnover rates to optimize inventory.
 
 ## **Key Insights**
 
 - **Sales Trends:** Identification of peak sales hours and days, top-selling products, and seasonal trends.
 - **Customer Preferences:** Insights into customer favorites and purchasing patterns.
-- **Inventory Needs:** Recommendations for stock levels and restock schedules based on sales data.
+- **Used Tooltip:** Utilized tooltips to display total sales, total orders, and other key metrics for specific dates.
+- ![Screenshot (46)](https://github.com/user-attachments/assets/89b2dd9f-2ebe-455f-be02-53b8826fb61e)
 
 ## **Technologies Used**
-
-- **Python:** For data processing and analysis.
-- **Pandas:** For data manipulation and cleaning.
-- **Matplotlib & Seaborn:** For data visualization.
 - **SQL:** For querying and managing the dataset.
 - **Power BI:** For creating interactive dashboards and reports.
 
 ## **How to Use**
 
-1. **Clone the Repository:** `git clone https://github.com/username/coffee-store-analysis.git`
-2. **Install Dependencies:** `pip install -r requirements.txt`
-3. **Load Data:** Place the dataset in the `data` directory.
-4. **Run Analysis:** Execute the Jupyter notebooks in the `notebooks` directory to perform the analysis.
-5. **View Reports:** Check the `reports` directory for generated insights and visualizations.
+1. **Clone the Repository:** `git clone https://github.com/shivtarsode/coffee-store-analysis.git`
+2. **Load Data:** Place the dataset in the `data` directory.
+3. **Open Power BI:** Launch Power BI Desktop.
+4. **Import Data:** Load the dataset into Power BI from the `data` directory.
+5. **Load Report:** Open the Power BI report file (`.pbix`) included in the repository.
+6. **Explore Dashboards:** Interact with the dashboards to view insights on sales trends, customer preferences, and inventory management.
+7. **Customize Analysis:** Use the Power BI interface to filter data, drill down into specific details, and create custom visualizations as needed.
 
 ## **Conclusion**
 
@@ -64,4 +62,4 @@ The Coffee Store Analysis project provides valuable insights that can help in ma
 
 ---
 
-Replace the placeholder image URL with the actual URL of your coffee store image. Let me know if there's anything specific you want to add or modify!
+
